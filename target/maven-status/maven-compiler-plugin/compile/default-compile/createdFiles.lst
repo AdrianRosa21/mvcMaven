@@ -1,0 +1,8 @@
+controller\MainServlet.class
+sv\org\arrupe\www\mvcmaven\resources\JakartaEE10Resource.class
+controller\PlanillaServlet.class
+controller\UserController.class
+sv\org\arrupe\www\mvcmaven\JakartaRestConfiguration.class
+controller\EmpleadoController.class
+model\User.class
+model\Empleado.class
